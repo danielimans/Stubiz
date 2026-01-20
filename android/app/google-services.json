@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029478775956",
+    "project_id": "stubiz",
+    "storage_bucket": "stubiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029478775956:android:ffa8b948a55430aff20881",
+        "android_client_info": {
+          "package_name": "com.example.stubiz_main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOcLPqapkkBRowVI2dppKZ_e_8-o3IzCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
